@@ -1,4 +1,4 @@
-baseurl: ""
+baseurl: "/"
 
 plugins:
   - jekyll-assets
