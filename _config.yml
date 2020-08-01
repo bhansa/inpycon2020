@@ -1,7 +1,7 @@
-baseurl: "/2020"
+baseurl: ""
 
 plugins:
   - jekyll-assets
 
 assets:
-  destination: "/assets"
+  destination: "assets"
